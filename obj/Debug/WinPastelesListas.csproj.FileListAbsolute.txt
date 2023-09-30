@@ -1,0 +1,10 @@
+C:\Ang\WinPastelesListas\WinPastelesListas\bin\Debug\WinPastelesListas.exe.config
+C:\Ang\WinPastelesListas\WinPastelesListas\bin\Debug\WinPastelesListas.exe
+C:\Ang\WinPastelesListas\WinPastelesListas\bin\Debug\WinPastelesListas.pdb
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.csproj.AssemblyReference.cache
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.Form1.resources
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.Properties.Resources.resources
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.csproj.GenerateResource.cache
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.csproj.CoreCompileInputs.cache
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.exe
+C:\Ang\WinPastelesListas\WinPastelesListas\obj\Debug\WinPastelesListas.pdb
